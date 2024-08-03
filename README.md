@@ -1,6 +1,6 @@
 # Cinema-Ticket-System
 
-# Task_timestamp
+# Описание
 
 Это задача демонстрирует систему управления билетами в кинотеатр на языке Javascript.
 
