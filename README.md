@@ -28,4 +28,5 @@
 
 После запуска команды вы должны видеть следующую картину: 
 
-![image](https://github.com/user-attachments/assets/b04b8eee-0566-4f20-8248-9ac0488d919a)
+![image](https://github.com/user-attachments/assets/e6a14f82-2983-4603-ae6b-eb4fbeca862d)
+
